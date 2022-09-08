@@ -1,0 +1,5 @@
+﻿  lesson8.c
+C:\Users\oferm\source\repos\C ceminar\lesson8\lesson8\lesson8.c(65,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\oferm\source\repos\C ceminar\lesson8\lesson8\lesson8.c(75,6): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\oferm\source\repos\C ceminar\lesson8\lesson8\lesson8.c(58,6): warning C4101: 'num': unreferenced local variable
+  lesson8.vcxproj -> C:\Users\oferm\source\repos\C ceminar\lesson8\x64\Debug\lesson8.exe

@@ -1,0 +1,4 @@
+﻿  homeWork.c
+C:\Users\EDENM\source\repos\lesson3\lesson3\homeWork.c(33,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\EDENM\source\repos\lesson3\lesson3\homeWork.c(34,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  lesson3.vcxproj -> C:\Users\EDENM\source\repos\lesson3\x64\Debug\lesson3.exe

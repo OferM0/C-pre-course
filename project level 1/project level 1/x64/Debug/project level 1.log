@@ -1,0 +1,5 @@
+﻿  project level 1.c
+C:\Users\oferm\source\repos\C ceminar\project level 1\project level 1\project level 1.c(23,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\oferm\source\repos\C ceminar\project level 1\project level 1\project level 1.c(48,11): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\oferm\source\repos\C ceminar\project level 1\project level 1\project level 1.c(52,11): warning C4013: 'eval' undefined; assuming extern returning int
+  project level 1.vcxproj -> C:\Users\oferm\source\repos\C ceminar\project level 1\x64\Debug\project level 1.exe
